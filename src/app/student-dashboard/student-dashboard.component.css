@@ -1,0 +1,24 @@
+.courses{
+    float: left;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.learner{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+img{
+    height: 200px;
+}
+
+.spinners{
+    height: 350px;
+    width: 1000x;
+    text-align: center;
+}
+
+.d-flex.justify-content-center{
+    margin-top: 200px;
+}
