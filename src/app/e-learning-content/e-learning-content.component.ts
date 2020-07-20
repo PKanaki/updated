@@ -12,4 +12,8 @@ export class ELearningContentComponent implements OnInit {
   ngOnInit(): void {
   }
 
+
+  
+ 
+
 }

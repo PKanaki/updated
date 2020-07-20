@@ -95,7 +95,7 @@ export class ELearningNavbarComponent implements OnInit{
     this.authService.signOut();
     window.location.reload();
   }
-/*
+
   toAboutUs(){
     document.getElementById("aboutus").scrollIntoView({behavior:"smooth"});
    }
@@ -103,8 +103,5 @@ export class ELearningNavbarComponent implements OnInit{
   toContact(){
     document.getElementById("e-learning-footer").scrollIntoView({behavior:"smooth"});
   }
- 
-*/
-
 }
 
